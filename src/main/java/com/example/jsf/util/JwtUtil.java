@@ -1,4 +1,4 @@
-package com.example.jsf.utils;
+package com.example.jsf.util;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

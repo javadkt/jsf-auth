@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3ef1fc-8de7-4ad5-9ab4-1dad842176ee" name="Changes" comment="" />
+    <list default="true" id="cb3ef1fc-8de7-4ad5-9ab4-1dad842176ee" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jsf/beans/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jsf/beans/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jsf/utils/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/jsf/util/JwtUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -35,6 +41,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,43 +90,56 @@
       <workItem from="1697997087232" duration="43000" />
       <workItem from="1697997135827" duration="19000" />
       <workItem from="1697997161204" duration="28000" />
-      <workItem from="1697997194652" duration="1609000" />
+      <workItem from="1697997194652" duration="1940000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1697999085896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697999085896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/dao/LoginDAO.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/dao/LoginDAO.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/util/DataConnect.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/util/DataConnect.java</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/util/DataConnect.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/util/DataConnect.java</url>
           <line>10</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/util/DataConnect.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/util/DataConnect.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/dao/LoginDAO.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/dao/LoginDAO.java</url>
           <line>30</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/journaldev/jsf/dao/LoginDAO.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/jsf/dao/LoginDAO.java</url>
           <line>27</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>

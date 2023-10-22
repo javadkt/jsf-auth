@@ -10,13 +10,11 @@ import javax.servlet.http.HttpSession;
 
 import com.example.jsf.dao.LoginDAO;
 import com.example.jsf.util.SessionUtils;
-import com.example.jsf.utils.JwtUtil;
+import com.example.jsf.util.JwtUtil;
 
 @ManagedBean
 @SessionScoped
 public class Login implements Serializable {
-
-    private static final long serialVersionUID = 1094801825228386363L;
 
     private String pwd;
     private String msg;
@@ -58,7 +56,7 @@ public class Login implements Serializable {
             FacesContext.getCurrentInstance().addMessage(
                     null,
                     new FacesMessage(FacesMessage.SEVERITY_WARN,
-                            "Incorrect Username and Passowrd",
+                            "Incorrect Username and Password",
                             "Please enter correct username and Password"));
             return "login";
         }
